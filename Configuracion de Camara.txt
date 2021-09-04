@@ -1,0 +1,1 @@
+El proyecto esta definido para trabajar con una camara remota, para correr el proyecto con la camara del portatil es necesario cambiar el valor de la variable capturavideo de 1 a 0
